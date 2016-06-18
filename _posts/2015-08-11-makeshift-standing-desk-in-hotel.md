@@ -6,6 +6,6 @@ summary:    What to do when the body begs to stand but there is only a desk to s
 categories: development
 ---
 
-Practicing my MidwestJS testing talk. None of the found objects in my hotel room provided the proper height for a mekshift standing desk until I discovered this combination: upside down foot rest/bench and ironing board balanced on bed.
+Practicing my MidwestJS testing talk. None of the found objects in my hotel room provided the proper height for a makeshift standing desk until I discovered this combination: upside down foot rest/bench and ironing board balanced on bed.
 
 ![Makeshift Standing Desk](/images/makeshift-standing-desk.jpg)
