@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/brandenbyers
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brandenbyers.com
+  * I am brandenbyers (https://keybase.io/brandenbyers) on keybase.
+  * I have a public key with fingerprint D366 4E31 6442 1BF2 C970  2AA8 A79F 0B1B 5949 B63E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101edd56cee5ab6d8121fd96e4ed42fd0be4fe319905c4b27f46427bec163b740620a",
+            "fingerprint": "d3664e3164421bf2c9702aa8a79f0b1b5949b63e",
+            "host": "keybase.io",
+            "key_id": "a79f0b1b5949b63e",
+            "kid": "0101edd56cee5ab6d8121fd96e4ed42fd0be4fe319905c4b27f46427bec163b740620a",
+            "uid": "ceff6c4e1fd91b72bdd3f6cec00b9819",
+            "username": "brandenbyers"
+        },
+        "service": {
+            "hostname": "brandenbyers.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1468471377,
+    "expire_in": 157680000,
+    "prev": "aa20a5f1245d478e39f3732c3dd7dcecab71d79beb00d5a918aa82a10aa921f2",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMInAnicrVJbSBVBGD6mFZqFZlmpBa3gk9jO7py9nEhNu3qjyLCH6jizM+tZL7un
+c45HxaSwQCowAsUupvWQDwaVKBWC1FELU6MLQQRFGNlDZF4wQixsVurNx+ZlmP//
+vm++758ZXB3uiAqT8n5fzUnNLg0bCbVVOooaNh6s5bBFajhXLVdGFzdaTqg/4C4z
+COfieMADSohT0ih1IiwRBQhAJ6pEISVQ0AmPKdSpCFSVd2oQC7IOJSjImGpAErEM
+eUngEZfK6YZZQn1en2EGmCwRJQkylgShALAuaKrMCwgpSFZ1HgPsVKGKJZEyosfy
+2wxmDiM/TTMsVmMH96K9JfD/2XflopxGdV3SILUlAJYFTIjIClTjeawqQLWBfuoz
+UQVlaOxDJqEmrqE+P1eXyrFO0NCoPVw7zRKoNM2qYBpenxWwNKucdT2BgNdlkwM1
+XhtdRbH7r44bGyZh42SEIOMalsm5AENqAcMWBlBSoAxEWU7laLXX8FG3YSOcsqTw
+bNnX0KA9PMQiOnUgQCeBskJFVRdlUdBEQmTCsiEsAyKrmGKeJ06kAoW9kIAAj5DK
+hilwdrITpsW5ILOJSpik3ygxUaDSR7m6/sdHIxxhUY4Vy5fZ38wRFRnz7/MVV66c
+j1g/Pnf+w9D3vA3j+caO3pxjyeWtXflNxx9OfO1+VFg1nf1qICXzTW5KqXI4ZqS5
+q/dy9LadiXHDjZ7eB/f29jTff7p9qqXwU3Hb2J3X3sbBz/Nnh8kd2pDZMdC+rXB6
+bArVxqX3vYswEjYnh0DCjaRrZWW3i4IdBzzZ/T/jcvZdPPRsYdWahr7JH52hkqqZ
+5xUFa2vriSd5KPZSeM9uf+KTgsmw0YNnskZjIrpnlFu5YNbYv/V8xoDZpNZf/9Vz
+N/Ymvyd0pSW8LvFLdPyL9/2F0yh94tHslsyPbxvDB49Uny7tXAi5LxRUb/o2ty6+
+9VzG3UPt3cHIsZOnspKqR62XP3f9AaSjRmA=
+=gBRS
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brandenbyers
+
+==================================================================
+
