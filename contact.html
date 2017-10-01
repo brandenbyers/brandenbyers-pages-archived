@@ -14,7 +14,8 @@ tags: contact
       <button type='submit' class="button button-pink button-big mobile-block">{{ site.text.contact.submit }}</button>
     </form>
   {% else %}
-    <form action="https://formspree.io/{{ site.email }}" method="POST" class="form-stacked">
+    <form class="form-stacked name="contact" action="/thanks/" netlify-honeypot="bot-field" netlify">
+      <input type="hidden" name="bot-field">
       <input type="text" name="email" class="field-light" placeholder="{{ site.text.contact.email }}">
       <textarea type="text" name="content" class="field-light" rows="5" placeholder="{{ site.text.contact.content }}"></textarea>
       <input type="hidden" name="_next" value="{{ site.baseurl }}/thanks/" />
